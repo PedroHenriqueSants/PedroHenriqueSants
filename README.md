@@ -1,4 +1,6 @@
-# Olá, sou o Pedro Henrique! 👋
+<div align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=430&lines=Ol%C3%A1%2C+sou+o+Pedro+Henrique%21+%F0%9F%91%8B;" alt="Animação de Digitação"/>
+</div>
 **`Desenvolvedor FullStack`**
 
 Tenho **21 anos**, Desenvolvedor em formação e **apaixonado por tecnologia e programação**.
