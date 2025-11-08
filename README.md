@@ -34,8 +34,7 @@ Sou **autodidata** e dedico-me ao **estudo contínuo** em plataformas Online com
 
 ### 📊 Estatísticas
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenriqueSants&show_icons=true&theme=dark)
-
+![Estatísticas do GitHub de Pedro](https://github-readme-stats.vercel.app/api?username=PedroHenriqueSants&show_icons=true&theme=dark&rank_icon=github)
 
 ## Contato 
 <a href="https://www.instagram.com/pedrohenrissantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
