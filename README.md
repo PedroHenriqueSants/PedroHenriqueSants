@@ -38,7 +38,9 @@ Sou **autodidata** e dedico-me ao **estudo contínuo** em plataformas Online com
 
 ## Contato 
 <a href="https://www.instagram.com/pedrohenrissantos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:11pedrohenriquesantos@gmai.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:11pedrohenriquesantos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-11pedrohenriquesantos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email para contato"/>
+</a>
 <a href="https://www.linkedin.com/in/pedro-henrique-496259398/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
