@@ -10,7 +10,7 @@ Tenho **21 anos**, Desenvolvedor em formação e **apaixonado por tecnologia e p
 ## 🎓 Educação
 
 * **Sistemas de Informação** - Estácio (Belém, PA)
-    * *Estudante com bolsa integral PROUNI (100%)*
+    * *Estudante com bolsa integral PROUNI*
 
 
 ## 🛠️ Linguagens e Tecnologias
